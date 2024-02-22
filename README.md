@@ -1,3 +1,3 @@
-# Sales-Project
-Detailed information of the sales data on power BI tool.
-Details: Yearly sale's status, Montly sales, Sales areas, Product performmnace by price, Top 7 products, Sales by products or so on...
+# Power BI Project on Sales:
+Detailed information on the sales data on the Power BI tool.
+Details: Yearly sales status, monthly sales, Sales areas, Product performance by price, Top 7 products, Sales by-products, and so on...
